@@ -70,10 +70,6 @@ namespace _03._Hero_Recruitment
                         Console.WriteLine($"{heroName} doesn't exist.");
                     }
                 }
-                else
-                {
-                    continue;
-                }
             }
             if (heroAndSpells.Count > 0)
             {
